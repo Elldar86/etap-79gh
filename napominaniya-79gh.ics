@@ -1,0 +1,2231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//etap-79gh//RU
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Контракт 79-ГХ
+BEGIN:VEVENT
+UID:79gh-0@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20261202T093000
+DURATION:PT15M
+SUMMARY:79-ГХ: внести данные АСДУ за вчера
+DESCRIPTION:Приложение «Этап 79-ГХ» → Ввод. Ре
+ йсы\, пробег\, авточасы\, нерегулярные ре
+ йсы по 11 маршрутам. Форма Прил. 19 — зака
+ зчику.
+RRULE:FREQ=DAILY;UNTIL=20281201T235959
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: внести данные АСДУ за вчера
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-1@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20261229T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 1 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 1 (01.12.2026–15.12.2026). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 1 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 1 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 1 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-2@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270120T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 1 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 29.01.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 1 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-3@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270122T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 2 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 2 (16.12.2026–31.12.2026). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 2 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 2 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 2 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-4@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270205T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 2 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 16.02.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 2 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-5@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270129T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 3 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 3 (01.01.2027–15.01.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 3 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 3 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 3 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-6@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270212T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 3 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 24.02.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 3 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-7@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270212T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 4 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 4 (16.01.2027–31.01.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 4 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 4 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 4 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-8@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270301T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 4 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 11.03.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 4 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-9@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270302T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 5 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 5 (01.02.2027–15.02.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 5 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 5 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 5 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-10@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270317T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 5 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 26.03.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 5 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-11@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270315T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 6 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 6 (16.02.2027–28.02.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 6 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 6 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 6 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-12@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270329T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 6 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.04.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 6 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-13@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270329T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 7 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 7 (01.03.2027–15.03.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 7 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 7 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 7 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-14@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270412T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 7 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 21.04.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 7 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-15@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270414T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 8 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 8 (16.03.2027–31.03.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 8 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 8 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 8 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-16@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270428T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 8 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.05.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 8 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-17@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270429T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 9 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 9 (01.04.2027–15.04.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 9 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 9 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 9 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-18@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270513T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 9 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 24.05.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 9 — проверить подписани
+ е заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-19@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270514T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 10 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 10 (16.04.2027–30.04.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 10 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 10 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 10 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-20@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270528T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 10 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 08.06.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 10 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-21@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270528T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 11 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 11 (01.05.2027–15.05.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 11 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 11 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 11 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-22@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270611T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 11 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.06.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 11 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-23@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270614T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 12 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 12 (16.05.2027–31.05.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 12 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 12 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 12 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-24@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270628T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 12 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.07.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 12 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-25@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270629T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 13 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 13 (01.06.2027–15.06.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 13 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 13 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 13 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-26@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270713T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 13 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.07.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 13 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-27@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270714T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 14 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 14 (16.06.2027–30.06.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 14 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 14 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 14 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-28@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270728T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 14 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 06.08.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 14 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-29@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270729T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 15 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 15 (01.07.2027–15.07.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 15 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 15 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 15 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-30@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270812T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 15 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 23.08.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 15 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-31@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270813T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 16 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 16 (16.07.2027–31.07.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 16 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 16 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 16 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-32@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270827T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 16 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.09.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 16 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-33@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270827T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 17 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 17 (01.08.2027–15.08.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 17 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 17 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 17 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-34@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270910T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 17 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 21.09.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 17 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-35@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270914T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 18 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 18 (16.08.2027–31.08.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 18 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 18 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 18 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-36@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270928T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 18 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.10.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 18 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-37@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20270929T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 19 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 19 (01.09.2027–15.09.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 19 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 19 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 19 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-38@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271013T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 19 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.10.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 19 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-39@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271014T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 20 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 20 (16.09.2027–30.09.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 20 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 20 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 20 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-40@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271028T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 20 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 09.11.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 20 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-41@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271029T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 21 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 21 (01.10.2027–15.10.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 21 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 21 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 21 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-42@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271115T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 21 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 24.11.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 21 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-43@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271115T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 22 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 22 (16.10.2027–31.10.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 22 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 22 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 22 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-44@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271129T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 22 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 08.12.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 22 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-45@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271129T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 23 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 23 (01.11.2027–15.11.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 23 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 23 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 23 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-46@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271213T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 23 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.12.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 23 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-47@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271207T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 24 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 24 (16.11.2027–30.11.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 24 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 24 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 24 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-48@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271221T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 24 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 30.12.2
+ 027.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 24 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-49@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20271229T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 25 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 25 (01.12.2027–15.12.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 25 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 25 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 25 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-50@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280119T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 25 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 28.01.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 25 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-51@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280121T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 26 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 26 (16.12.2027–31.12.2027). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 26 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 26 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 26 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-52@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280204T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 26 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 15.02.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 26 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-53@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280128T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 27 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 27 (01.01.2028–15.01.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 27 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 27 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 27 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-54@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280211T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 27 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.02.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 27 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-55@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280214T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 28 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 28 (16.01.2028–31.01.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 28 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 28 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 28 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-56@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280229T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 28 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 10.03.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 28 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-57@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280301T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 29 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 29 (01.02.2028–15.02.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 29 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 29 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 29 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-58@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280316T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 29 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 27.03.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 29 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-59@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280315T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 30 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 30 (16.02.2028–29.02.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 30 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 30 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 30 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-60@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280329T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 30 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.04.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 30 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-61@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280329T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 31 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 31 (01.03.2028–15.03.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 31 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 31 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 31 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-62@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280412T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 31 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 21.04.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 31 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-63@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280414T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 32 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 32 (16.03.2028–31.03.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 32 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 32 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 32 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-64@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280428T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 32 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 11.05.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 32 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-65@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280428T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 33 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 33 (01.04.2028–15.04.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 33 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 33 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 33 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-66@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280516T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 33 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 25.05.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 33 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-67@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280516T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 34 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 34 (16.04.2028–30.04.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 34 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 34 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 34 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-68@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280530T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 34 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 08.06.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 34 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-69@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280529T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 35 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 35 (01.05.2028–15.05.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 35 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 35 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 35 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-70@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280613T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 35 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.06.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 35 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-71@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280615T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 36 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 36 (16.05.2028–31.05.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 36 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 36 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 36 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-72@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280629T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 36 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 10.07.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 36 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-73@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280629T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 37 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 37 (01.06.2028–15.06.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 37 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 37 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 37 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-74@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280713T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 37 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 24.07.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 37 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-75@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280714T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 38 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 38 (16.06.2028–30.06.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 38 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 38 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 38 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-76@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280728T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 38 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 08.08.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 38 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-77@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280728T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 39 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 39 (01.07.2028–15.07.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 39 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 39 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 39 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-78@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280811T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 39 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.08.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 39 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-79@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280814T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 40 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 40 (16.07.2028–31.07.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 40 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 40 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 40 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-80@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280828T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 40 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 06.09.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 40 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-81@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280829T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 41 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 41 (01.08.2028–15.08.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 41 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 41 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 41 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-82@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280912T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 41 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 21.09.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 41 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-83@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280914T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 42 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 42 (16.08.2028–31.08.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 42 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 42 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 42 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-84@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280928T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 42 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 09.10.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 42 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-85@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20280929T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 43 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 43 (01.09.2028–15.09.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 43 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 43 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 43 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-86@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281013T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 43 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 24.10.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 43 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-87@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281013T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 44 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 44 (16.09.2028–30.09.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 44 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 44 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 44 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-88@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281027T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 44 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.11.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 44 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-89@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281027T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 45 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 45 (01.10.2028–15.10.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 45 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 45 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 45 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-90@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281110T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 45 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 21.11.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 45 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-91@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281114T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 46 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 46 (16.10.2028–31.10.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 46 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 46 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 46 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-92@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281128T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 46 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 07.12.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 46 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-93@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281129T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 47 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 47 (01.11.2028–15.11.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 47 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 47 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 47 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-94@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281213T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 47 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 22.12.2
+ 028.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 47 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-95@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281207T090000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 48 — крайний срок документ
+ а в ЕИС
+DESCRIPTION:Этап 48 (16.11.2028–30.11.2028). Документ о п
+ риёмке в ЕИС + акт (прил. 6) + отчёты прил. 1
+ 2 и 20. Цифры — вкладка «Этап».
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 48 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 48 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 48 — крайний срок докуме
+ нта в ЕИС
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79gh-96@etap-79gh
+DTSTAMP:20261124T120000Z
+DTSTART:20281221T100000
+DURATION:PT15M
+SUMMARY:79-ГХ: этап 48 — проверить подписание 
+ заказчиком
+DESCRIPTION:Срок подписания или мотивированн
+ ого отказа (10 раб. дней). Оплата — до 09.01.2
+ 029.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:79-ГХ: этап 48 — проверить подписан
+ ие заказчиком
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
