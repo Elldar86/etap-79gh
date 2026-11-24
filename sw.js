@@ -1,5 +1,5 @@
-const CACHE="etap79gh-v1";
-const FILES=["./","index.html","manifest.webmanifest","xlsx.full.min.js","icon-192.png","icon-512.png","icon-maskable-512.png","apple-touch-icon.png","napominaniya-79gh.ics"];
+const CACHE="etap79gh-v4";
+const FILES=["./","index.html","manifest.webmanifest","xlsx.full.min.js","jspdf.umd.min.js","html2canvas.min.js","docx.umd.js","icon-192.png","icon-512.png","icon-maskable-512.png","apple-touch-icon.png","napominaniya-79gh.ics"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
 self.addEventListener("fetch",e=>{const r=e.request;if(r.method!=="GET")return;
